@@ -7,7 +7,7 @@
       "type": "object",
       "properties": {
         "processInstanceQuery": {
-          "$ref": "#/components/schemas/HistoricProcessInstanceQueryDto"
+          "$ref": "#/components/schemas/ProcessInstanceQueryDto"
         }
       }
     }
