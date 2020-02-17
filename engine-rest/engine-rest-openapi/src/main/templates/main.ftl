@@ -54,6 +54,7 @@
       "ProcessInstanceQueryDto":                   <#include "/models/org/camunda/bpm/engine/rest/dto/runtime/ProcessInstanceQueryDto.ftl">,
       "SetJobRetriesByProcessDto":                 <#include "/models/org/camunda/bpm/engine/rest/dto/runtime/SetJobRetriesByProcessDto.ftl">,
       "SetJobRetriesByProcessPIQDto":              <#include "/models/org/camunda/bpm/engine/rest/dto/runtime/SetJobRetriesByProcessPIQDto.ftl">,
+      "SingleProcessInstanceSuspensionStateDto":   <#include "/models/org/camunda/bpm/engine/rest/dto/runtime/SingleProcessInstanceSuspensionStateDto.ftl">,
       "TransitionInstanceDto":                     <#include "/models/org/camunda/bpm/engine/rest/dto/runtime/TransitionInstanceDto.ftl">,
       "TriggerVariableValueDto":                   <#include "/models/org/camunda/bpm/engine/rest/dto/runtime/TriggerVariableValueDto.ftl">,
 
