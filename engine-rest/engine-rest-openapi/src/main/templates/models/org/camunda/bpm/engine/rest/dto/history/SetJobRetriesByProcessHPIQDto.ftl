@@ -1,13 +1,13 @@
 {
   "allOf": [
     {
-      "$ref": "#/components/schemas/DeleteProcessInstancesDto"
+      "$ref": "#/components/schemas/SetJobRetriesByProcessDto"
     },
     {
       "type": "object",
       "properties": {
         "processInstanceQuery": {
-          "$ref": "#/components/schemas/ProcessInstanceQueryDto"
+          "$ref": "#/components/schemas/HistoricProcessInstanceQueryDto"
         }
       }
     }

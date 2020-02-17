@@ -1,7 +1,7 @@
 {
   "allOf": [
     {
-      "$ref": "#/components/schemas/DeleteProcessInstancesDto"
+      "$ref": "#/components/schemas/SetJobRetriesByProcessDto"
     },
     {
       "type": "object",
